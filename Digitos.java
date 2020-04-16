@@ -37,7 +37,7 @@ public class Digitos
     }
    public String toString()//inicia el método tipo String que muestra la suma 
     {
-        String cadena =  " ";// se declara la variable local cadena en vacío
+        String cadena =  " ";// se declara la variable local cadena en blanco
         cadena = "Suma: " + suma; // se le asigna a la cadena el valor de la suma
         return cadena;//se muestra el resultado de la suma
     }// fin del métdodo toString
